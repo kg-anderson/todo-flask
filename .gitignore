@@ -142,3 +142,6 @@ node_modules
 static
 npm-debug.log
 bundle.*
+
+# Flask-SQLAlchemy DB
+example.db
